@@ -1,0 +1,6 @@
+.text-block {
+    background-color: coral;
+}
+.text-block:hover {
+    background-color: darkcyan;
+}
